@@ -94,5 +94,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8521ba83-6ba1-4102-b154-72be50ba96a4/deploy-status)](https://app.netlify.com/sites/confident-easley-6e6c3d/deploys)
 
-
 <!-- AUTO-GENERATED-CONTENT:END -->
